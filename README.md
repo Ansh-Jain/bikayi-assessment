@@ -1,7 +1,7 @@
 Bikayi Assignment-Frontend
 You have to make an app to showcase nobel prize winners for the last 100
 years.
-- The link to output view-
+- The link to output view- https://github.com/Ansh-Jain/bikayiassessment
 - The data is available here : http://api.nobelprize.org/v1/prize.json
 - You can paste the data here https://jsonformatter.curiousconcept.com/
 to see the data in a formatted way.
